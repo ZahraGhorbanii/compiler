@@ -1,0 +1,10 @@
+class Program {
+  boolean is_greater_than_zero(int a) {
+    if (a > 0){ return true;} 
+    else{ return false;}
+  }
+  void main() {
+    is_greater_than_zero(5, 2);
+  }
+}
+
