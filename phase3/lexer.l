@@ -1,7 +1,7 @@
 %{
   #include<stdio.h>
   #include<string.h>
-  #include "p.tab.h"
+  #include "parser.tab.h"
   
   int compare_neg();
   int compare_pos();
